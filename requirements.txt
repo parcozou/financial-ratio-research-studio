@@ -1,0 +1,9 @@
+streamlit
+wrds
+pandas
+numpy
+matplotlib
+openpyxl
+openai
+psycopg2-binary
+tabulate
