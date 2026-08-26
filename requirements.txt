@@ -7,3 +7,4 @@ openpyxl
 openai
 psycopg2-binary
 tabulate
+httpx
